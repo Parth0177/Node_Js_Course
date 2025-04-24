@@ -12,4 +12,3 @@ fs.writeFile("output.txt","Writing File",(err)=>{
 });
 
 //File writing is available in node js...
-   
