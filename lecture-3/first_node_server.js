@@ -1,4 +1,4 @@
-const http = require('https');
+const http = require('http');
 
 const server = http.createServer((req, res) => {
   console.log(req);
